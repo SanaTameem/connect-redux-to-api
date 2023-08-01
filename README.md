@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Connect React & Redux app to API
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) which connects an existing API via Redux and use the data to display something in a UI.
 
 ## Available Scripts
 
